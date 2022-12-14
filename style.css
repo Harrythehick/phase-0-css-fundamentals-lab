@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color:gainsboro;
+}
+.navLinks{
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+figcaption {
+  font-size:medium;
+  text-align: center;
+}
+#featured-property p {
+width: 800px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+#details div {
+  float: left;
+  background-color: aqua;
+  text-align: center;
+  width: 25%;
+}
+#details a {
+  background-color: aqua;
+}
